@@ -1,0 +1,3123 @@
+<mainlist>
+	<appname>General English 2</appname>
+	<mainlistitem id="1">
+		<title>Unit 1: How many brothers do you have?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0201A.jpg</image>
+				<audio>NDE0201A.mp3</audio>
+				<viewscript>Kathy: Hello, Pierre. Welcome back to our show.
+				
+Pierre: It's nice to be back.
+
+Kathy: You live in Paris, don't you?
+
+Pierre: That's right. I live in Paris.
+
+Kathy: Why are you here in Washington?
+
+Pierre: I'm visiting my sister. She lives in Virginia.
+
+Kathy: I see.  Where in Virginia does she live?
+
+Pierre: She lives in Alexandria.
+
+Kathy: Does she live by herself?  Is she single?
+
+Pierre: No, she's married. Her husband works for the U.S. government.
+
+Kathy: He's American?
+
+Pierre: That's right.
+
+Kathy: Do they have any children?
+
+Pierre: Yes, they do.
+
+Kathy: How many children do they have?
+
+Pierre: They have three children, two boys and a girl.
+
+Kathy: Tell me, Pierre. How many brothers and sisters do you have?
+
+Pierre: I have one brother and two sisters.</viewscript>
+				<comprehension>
+					<title>Lesson 1-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who lives in Alexandria, Virginia?</question>
+						<option>Pierre's sister</option>
+						<option>Pierre's brother</option>
+						<option>Pierre</option>
+						<answer>Pierre's sister</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Who works for the U.S. government?</question>
+						<option>Pierre's sister's husband</option>
+						<option>Pierre's sister</option>
+						<option>Pierre</option>
+						<answer>Pierre's sister's husband</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How many brothers does Pierre have?</question>
+						<option>one</option>
+						<option>two</option>
+						<option>three</option>
+						<answer>one</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>____________ any children?</question>
+						<option>Do they have</option>
+						<option>Are they having</option>
+						<option>Do have</option>
+						<answer>Do they have</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>________ children do they have?</question>
+						<option>How many</option>
+						<option>What number</option>
+						<option>How about</option>
+						<answer>How many</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>How many brothers and sisters ___________?</question>
+						<option>do you have</option>
+						<option>you have</option>
+						<option>are they</option>
+						<answer>do you have</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0201B.jpg</image>
+				<audio>NDE0201B.mp3</audio>
+				<viewscript>Kathy: Tell me, Pierre. Do you have any aunts or uncles?
+
+Pierre: Yes, I do.
+
+Kathy: How many uncles do you have?
+
+Pierre: I have four uncles.
+
+Kathy: Really?
+
+Pierre: Yes. We have a large family. My mother has one brother. And my father has two brothers.
+
+Kathy: So that's three uncles.
+
+Pierre: Yes... and one of my aunts is married. Her husband is my uncle.
+
+Kathy: I see.  So you have four uncles.
+
+Pierre: That's right.
+
+Kathy: How many aunts do you have?
+
+Pierre: I have two aunts. They're my mother's sisters.</viewscript>
+				<comprehension>
+					<title>Lesson 1-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0201B_Q1.mp3|How many uncles does Pierre have?</question>
+						<option>four</option>
+						<option>two</option>
+						<option>none</option>
+						<answer>four</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0201B_Q2.mp3|Does his father have any brothers?</question>
+						<option>Yes, he does.</option>
+						<option>No, he isn't.</option>
+						<option>No, he doesn't.</option>
+						<answer>Yes, he does.</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0201B_Q3.mp3|Does his father have any sisters?</question>
+						<option>No, he doesn't.</option>
+						<option>Yes, he does. He has two sisters.</option>
+						<option>Yes, he does. He has two brothers.</option>
+						<answer>No, he doesn't.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>have?</option>
+						<option>uncles</option>
+						<option>How</option>
+						<option>do</option>
+						<option>many</option>
+						<option>you</option>
+						<answer>How many uncles do you have?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>have</option>
+						<option>or uncles?</option>
+						<option>you</option>
+						<option>aunts</option>
+						<option>Do</option>
+						<option>any</option>
+						<answer>Do you have any aunts or uncles?</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<option>my</option>
+						<option>aunts</option>
+						<option>One</option>
+						<option>of</option>
+						<option>married.</option>
+						<option>is</option>
+						<answer>One of my aunts is married.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0201C.jpg</image>
+				<audio>NDE0201C.mp3</audio>
+				<viewscript>Julia: Hello. My name is Julia. I'm from Detroit. I have a question for Mr. Dubois.
+				
+Pierre: Yes, go ahead.
+
+Julia: You live in Paris. Where do your parents live?
+
+Pierre: They live in Marseilles. My father is seventy years old, and my mother is sixty-five.
+
+Julia: I see. What about your grandparents? Are they still living?
+
+Pierre: My grandfather--my mother's father--is still alive. He lives with my parents. He's ninety years old.</viewscript>
+				<comprehension>
+					<title>Lesson 1-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where do Pierre's parents live?</question>
+						<option>in Marseilles, France</option>
+						<option>in Milan, Italy</option>
+						<option>in Madrid, Spain</option>
+						<answer>in Marseilles, France</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How old is Pierre's father?</question>
+						<option>70 years old</option>
+						<option>65 years old</option>
+						<option>90 years old</option>
+						<answer>70 years old</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Where does Pierre's grandfather live?</question>
+						<option>He lives with Pierre's parents.</option>
+						<option>He lives with Pierre.</option>
+						<option>He lives in Paris.</option>
+						<answer>He lives with Pierre's parents.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Where do your parents ____?</question>
+						<option>live</option>
+						<option>living</option>
+						<option>are living</option>
+						<answer>live</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Are your grandparents _____ living?</question>
+						<option>still</option>
+						<option>already</option>
+						<option>have</option>
+						<answer>still</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>My grandfather -- my ________ father -- is still alive.</question>
+						<option>mother's</option>
+						<option>mother</option>
+						<option>mothers</option>
+						<answer>mother's</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="2">
+		<title>Unit 2: When does the train leave?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0202A.jpg</image>
+				<audio>NDE0202A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Pat Miller. Hi, Pat. You're a college student.
+				
+Pat: That's right. I go to American University.
+
+Kathy: What are you studying?
+
+Pat: I'm studying drama. I want to be an actor.
+
+Kathy: Do you go to many plays?
+
+Pat: Yes, I do. I see a lot of plays here in Washington. And sometimes my friend Sandy and I go to New York to see Broadway shows.
+
+Kathy: New York? How do you get there?
+
+Pat: We go by train. We go and come back the same day.</viewscript>
+				<comprehension>
+					<title>Lesson 2-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Pat want to be?</question>
+						<option>an actor</option>
+						<option>a doctor</option>
+						<option>a teacher</option>
+						<answer>an actor</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Why do Pat and her friend go to New York?</question>
+						<option>to see broadway shows</option>
+						<option>to study drama</option>
+						<option>to go to American University</option>
+						<answer>to see broadway shows</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does Pat get to New York?</question>
+						<option>by train</option>
+						<option>by bus</option>
+						<option>by car</option>
+						<answer>by train</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I __ to American University.</question>
+						<option>go</option>
+						<option>study</option>
+						<option>am</option>
+						<answer>go</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Do you go to many _____?</question>
+						<option>plays</option>
+						<option>play</option>
+						<option>playing</option>
+						<answer>plays</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>How do you _________?</question>
+						<option>get there</option>
+						<option>get</option>
+						<option>there</option>
+						<answer>get there</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0202B.jpg</image>
+				<audio>NDE0202B.mp3</audio>
+				<viewscript>Pat: I see a lot of plays here in Washington. And sometimes my friend Sandy and I go to New York to see Broadway shows.
+				
+Kathy: New York? How do you get there?
+
+Pat: We go by train. We go and come back the same day.
+
+Kathy: Really?
+
+Pat: Yes, it's not a long trip.
+
+Kathy: When do the trains leave?
+
+Pat: The first train to New York leaves at six o'clock in the morning.
+
+Kathy: That's very early.
+
+Pat: Yes, it is. We usually take the seven-o'clock train.
+
+Kathy: When does it arrive in New York?
+
+Pat: It arrives in New York at eleven. It takes about four hours.</viewscript>
+				<comprehension>
+					<title>Lesson 2-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0202B_Q1.mp3|When does the first train to New York leave?</question>
+						<option>Six o'clock</option>
+						<option>Seven o'clock</option>
+						<option>Four hours</option>
+						<answer>Six o'clock</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0202B_Q2.mp3|How long does it take to get to New York by train?</question>
+						<option>4 hours</option>
+						<option>7 hours</option>
+						<option>11 hours</option>
+						<answer>4 hours</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0202B_Q3.mp3|When does the train arrive in New York?</question>
+						<option>Eleven o'clock</option>
+						<option>Four o'clock</option>
+						<option>Seven o'clock</option>
+						<answer>Eleven o'clock</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>the</option>
+						<option>When</option>
+						<option>leave?</option>
+						<option>do</option>
+						<option>trains</option>
+						<answer>When do the trains leave?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>New York</option>
+						<option>eleven.</option>
+						<option>arrives</option>
+						<option>It</option>
+						<option>in</option>
+						<option>at</option>
+						<answer>It arrives in New York at eleven.</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<option>about</option>
+						<option>takes</option>
+						<option>four</option>
+						<option>It</option>
+						<option>hours.</option>
+						<answer>It takes about four hours.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0202C.jpg</image>
+				<audio>NDE0202C.mp3</audio>
+				<viewscript>Kathy: Our guest today is Pat Miller. She's a drama student at American University. She's telling us about her visits to New York. Now, you said that you and your friend Sandy sometimes go to New York to see plays.
+				
+Pat: That's right.
+
+Kathy: What do you usually do in New York?
+
+Pat: First we eat lunch. Sometimes we go shopping. Then we go to a show. 
+
+Kathy: What time do the shows usually start?
+
+Pat: They usually start at two o'clock. 
+
+Kathy: And when do they end? 
+
+Pat: They usually end at around five o'clock. The train to Washington leaves at seven. So we have time to eat something before the train leaves.
+
+Kathy: When do you get back to Washington?
+
+Pat: We arrive in Washington around eleven.
+
+Kathy: That's a long day.
+
+Pat: It is, but we love going to shows. They're wonderful.</viewscript>
+				<comprehension>
+					<title>Lesson 2-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What do they do when they first arrive in New York?</question>
+						<option>eat lunch</option>
+						<option>go shopping</option>
+						<option>go to a show</option>
+						<answer>eat lunch</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What time do the shows usually end?</question>
+						<option>five o'clock</option>
+						<option>two o'clock</option>
+						<option>seven o'clock</option>
+						<answer>five o'clock</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>When do they get back to Washington?</question>
+						<option>11:00 pm</option>
+						<option>7:00 pm</option>
+						<option>11:00 am</option>
+						<answer>11:00 pm</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What time do the shows usually _____?</question>
+						<option>start</option>
+						<option>to start</option>
+						<option>starting</option>
+						<answer>start</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>When do you ________ to Washington?</question>
+						<option>get back</option>
+						<option>getting back</option>
+						<option>going back</option>
+						<answer>get back</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>We love _____ to shows.</question>
+						<option>going</option>
+						<option>go</option>
+						<option>seeing</option>
+						<answer>going</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="3">
+		<title>Unit 3: How much does it cost?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0203A.jpg</image>
+				<audio>NDE0203A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Maria Alvarez. Ms. Alvarez manages a clothing store in San Jose, California. Welcome back, Maria. It's nice to see you again. Let's talk today about your work. What kinds of clothing do you sell?
+				
+Maria: We sell all kinds of clothing: skirts, sweaters, dresses, and so on.
+
+Kathy: For men and for women?
+
+Maria: No, only for women. It's a women's clothing store.
+
+Kathy: Is your clothing expensive?
+
+Maria: Not really. A dress costs from 35 to 65 dollars.
+
+Kathy: What about suits? 
+
+Maria: Suits cost from 45 to 95 dollars. Some are over 100 dollars.</viewscript>
+				<comprehension>
+					<title>Lesson 3-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What kinds of clothing does Maria sell?</question>
+						<option>all kinds of clothing</option>
+						<option>skirts and dresses only</option>
+						<option>suits and sweaters only</option>
+						<answer>all kinds of clothing</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What kind of clothing store does she manage?</question>
+						<option>a women's clothing store</option>
+						<option>a men's clothing store</option>
+						<option>a clothing store for women and men</option>
+						<answer>a women's clothing store</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Which are usually more expensive, suits or dresses?</question>
+						<option>suits</option>
+						<option>dresses</option>
+						<option>They cost about the same.</option>
+						<answer>suits</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>__ your clothing expensive?</question>
+						<option>Is</option>
+						<option>Are</option>
+						<option>Does</option>
+						<answer>Is</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Suits cost from 45 __ 95 dollars.</question>
+						<option>to</option>
+						<option>and</option>
+						<option>over</option>
+						<answer>to</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>A dress _____ from 35 to 65 dollars.</question>
+						<option>costs</option>
+						<option>cost</option>
+						<option>is cost</option>
+						<answer>costs</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0203B.jpg</image>
+				<audio>NDE0203B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Maria Alvarez. Maria manages a women's clothing store in San Jose, California. Maria, could you tell us more about the clothing at your store? Where does your clothing come from?
+				
+Maria: Some of it is from the U.S. Some comes from Mexico or from Asia. Some clothing is from Europe, but it's more expensive. For example, this dress from Mexico costs $15.
+
+Kathy: I see.
+
+Maria: And this dress from France costs $60.
+
+Kathy: Sixteen dollars?
+
+Maria: No, sixty dollars.
+
+Kathy: It's very expensive! These dresses look the same.
+
+Maria: Yes, they do. But they don't cost the same. Not at all.</viewscript>
+				<comprehension>
+					<title>Lesson 3-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0203B_Q1.mp3|Where does the clothing come from? </question>
+						<option>It comes from many places around the world.</option>
+						<option>It's made in the United States.</option>
+						<option>It's from Europe, especially France.</option>
+						<answer>It comes from many places around the world.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0203B_Q2.mp3|How much does the dress from France cost?</question>
+						<option>$60.00</option>
+						<option>$15.00</option>
+						<option>$16.00</option>
+						<answer>$60.00</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0203B_Q3.mp3|How are the dresses from Mexico and France different?</question>
+						<option>The dress from France is more expensive.</option>
+						<option>The dress from Mexico is more expensive.</option>
+						<option>The dress from France is more beautiful.</option>
+						<answer>The dress from France is more expensive.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>your</option>
+						<option>Where</option>
+						<option>from?</option>
+						<option>clothing</option>
+						<option>does</option>						
+						<option>come</option>
+						<answer>Where does your clothing come from?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>the clothing</option>
+						<option>the U.S.</option>
+						<option>is</option>
+						<option>of</option>
+						<option>from</option>
+						<option>Some</option>
+						<answer>Some of the clothing is from the U.S.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>This</option>
+						<option>France</option>
+						<option>dress</option>
+						<option>costs</option>
+						<option>from</option>
+						<option>$60.</option>
+						<answer>This dress from France costs $60.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0203C.jpg</image>
+				<audio>NDE0203C.mp3</audio>
+				<viewscript>Kathy: Why do some dresses cost fifteen dollars and other dresses cost fifty dollars?
+				
+Maria: Some cost 15 dollars... one, five... and some cost 50 dollars?
+
+Kathy: That's right.
+
+Maria: That's a good question. Some dresses are very expensive. Other dresses don't cost very much. They're in-expensive. Some inexpensive dresses come from poor countries...  Countries where workers don't make much money. So costs are low, and prices are low. In rich countries, where workers make a lot of money, costs are high and prices are high.
+
+Kathy: What about materials?
+
+Maria: Yes, that's a good point. Expensive dresses use expensive materials. Silk is expensive, so silk dresses are expensive. Cotton is less expensive than silk. So, cotton dresses are less expensive than silk dresses.</viewscript>
+				<comprehension>
+					<title>Lesson 3-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where do some of the inexpensive dresses come from?</question>
+						<option>countries where workers don't make much money</option>
+						<option>countries where workers make a lot of money</option>
+						<option>countries where costs are high</option>
+						<answer>countries where workers don't make much money</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where do you find high costs and high prices?</question>
+						<option>in rich countries</option>
+						<option>in poor countries</option>
+						<option>in both rich and poor countries</option>
+						<answer>in rich countries</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What is an example of an expensive material?</question>
+						<option>silk</option>
+						<option>cotton</option>
+						<option>They are both expensive.</option>
+						<answer>silk</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Some dresses are expensive. Other dresses __________ very much.</question>
+						<option>don't cost</option>
+						<option>cost</option>
+						<option>will cost</option>
+						<answer>don't cost</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Silk is expensive, __ silk dresses are expensive.</question>
+						<option>so</option>
+						<option>but</option>
+						<option>when</option>
+						<answer>so</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Cotton dresses are ____ expensive than silk dresses.</question>
+						<option>less</option>
+						<option>not</option>
+						<option>much</option>
+						<answer>less</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">				
+				<title>Lesson Bonus</title>
+				<image>NDE0203_bonus.jpg</image>
+				<audio>NDE0203_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. Today I'm at the Washington Monument in Washington, D.C. Excuse me?
+				
+Woman: Yes.
+
+Kent: I'd like to ask you a few questions.
+
+Woman: Certainly. 
+
+Kent: What do you do?
+
+Woman: I run the elevator here at the Washington Monument. I take people up to the top of the monument. And I take them down.
+
+Kent: How long does the trip take?
+
+Woman: It takes 75 seconds going up.
+
+Kent: And going down?
+
+Woman: 65 seconds.
+
+Kent: Can people use the stairs?
+
+Woman: No, they can't. There are 897 steps, but the stairs are closed to visitors.
+
+Kent: How tall is the Monument? 
+
+Woman: It's about 555 feet tall. It's the tallest building in Washington.
+
+Kent: Is it taller than the Eiffel Tower?
+
+Woman: No, it's not. The Eiffel Tower is 984 feet tall.
+
+Kent: How many people ride your elevator?
+
+Woman: Each year?
+
+Kent: Yes, each year.
+
+Woman: Each year, over a million people take the elevator to the top. In summer, we make 170 round-trips each day. That's 16 miles a day!
+
+Kent: Do you need tickets?
+
+Woman: Yes, you do.
+
+Kent: How much do they cost? 
+
+Woman: They don't cost anything. They're free.
+
+Kent: When is the Monument open?
+
+Woman: In summer, from 9:00 in the morning until 11:45 at night.
+
+Kent: That's almost 16 hours a day.
+
+Woman: That's right. But I only work eight hours a day, five days a week. 
+
+Kent: I see. Well, thank you very much.
+
+Woman: You're very welcome.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How can people get to the top of the Washington Monument?</question>
+						<option>by elevator</option>
+						<option>by stairs</option>
+						<option>by either stairs or elevator</option>
+						<answer>by elevator</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Which is taller, the Washington Monument or the Eiffel Tower? </question>
+						<option>the Eiffel Tower</option>
+						<option>the Washington Monument</option>
+						<option>They are about the same size.</option>
+						<answer>the Eiffel Tower</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How many people visit the Washington Monument each year?</question>
+						<option>over one million</option>
+						<option>about 100 thousand</option>
+						<option>around three million people</option>
+						<answer>over one million</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>The Washington Monument is ___________ building in Washington.</question>
+						<option>the tallest</option>
+						<option>taller</option>
+						<option>most tall</option>
+						<answer>the tallest</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>How many people ____ your elevator each year?</question>
+						<option>ride</option>
+						<option>rides</option>
+						<option>riding</option>
+						<answer>ride</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>How much __ the tickets cost?</question>
+						<option>do</option>
+						<option>are</option>
+						<option>does</option>
+						<answer>do</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="4">
+		<title>Unit 4: What is 2+2?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0204A.jpg</image>
+				<audio>NDE0204A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Richard Chen. Richard is a teacher. He teaches math. Welcome back, Richard.
+				
+Richard: It's nice to see you again.
+
+Kathy: Let's talk today about your work. You're a math teacher, aren't you?
+
+Richard: That's right. I teach math and science.
+
+Kathy: Numbers are important in math and science, aren't they?
+
+Richard: Certainly. Scientists use numbers all the time. And mathematics is the study of numbers.
+
+Kathy: Do you like teaching math?
+
+Richard: Yes, I do. I teach math at college. And once a month, I teach math at my son's school.
+
+Kathy: Your son ... is five years old?
+
+Richard: That's right. He's in primary school.
+
+Kathy: Can little children learn math?
+
+Richard: Well, yes. I show them easy math.
+
+Kathy: For example...
+
+Richard: Well, for example: 1 plus 1 equals 2. I put a doll on a table... one doll. One doll is on the table. Then I put another doll on the table. Two dolls.  Two dolls are now on the table. One doll plus one doll equals two dolls. One plus one equals two.
+
+Kathy: I see. Very interesting. One and one is two. One plus one equals two. That's addition.</viewscript>
+				<comprehension>
+					<title>Lesson 4-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Richard teach?</question>
+						<option>science and math</option>
+						<option>math</option>
+						<option>science</option>
+						<answer>science and math</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where does Richard teach once a month?</question>
+						<option>at his son's school</option>
+						<option>at a college</option>
+						<option>in his home</option>
+						<answer>at his son's school</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Which of these is an example of addition?</question>
+						<option>One plus one equals two.</option>
+						<option>Two minus one equals one.</option>
+						<option>Two times two equals four.</option>
+						<answer>One plus one equals two.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Can little children _____ math?</question>
+						<option>learn</option>
+						<option>to teach</option>
+						<option>doing</option>
+						<answer>learn</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Then I put _______ doll on the table.</question>
+						<option>another</option>
+						<option>other</option>
+						<option>some</option>
+						<answer>another</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>One doll plus one doll ______ two dolls.</question>
+						<option>equals</option>
+						<option>are not</option>
+						<option>isn't</option>
+						<answer>equals</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0204B.jpg</image>
+				<audio>NDE0204B.mp3</audio>
+				<viewscript>Kathy: One plus one equals two. That's addition. What about subtraction? Four minus one equals three? Do you teach subtraction to young children?
+				
+Richard: Yes, I do. I teach "take away."
+
+Kathy: Take away?
+
+Richard: Yes. For example... I put four dolls on the table. Four dolls are on the table. Then I take away one doll. Now there are three dolls on the table.
+
+Kathy: First you have four dolls. Then you take away one doll. Then you have three dolls.
+
+Richard: That's right. In the language of mathematics, four... minus one... equals three.
+
+Kathy: I see.
+
+Richard: So... five dolls minus two dolls equals ....
+
+Kathy: ... Three dolls.
+
+Richard: That's right. Five... minus two... equals three.
+
+Kathy: And children understand this?
+
+Richard: Yes, they do. For them, it's a game.
+
+Kathy: That's very interesting.</viewscript>
+				<comprehension>
+					<title>Lesson 4-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0204B_Q1.mp3|What is an example of subtraction?</question>
+						<option>4 - 1 = 3</option>
+						<option>2 + 1 = 3</option>
+						<option>2 + 2 = 4</option>
+						<answer>4 - 1 = 3</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0204B_Q2.mp3|How do we write: five minus two equals three?</question>
+						<option>5 - 2 = 3</option>
+						<option>5 + 2 = 3</option>
+						<option>5 / 3 = 3</option>
+						<answer>5 - 2 = 3</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0204B_Q3.mp3|What is seven minus three?</question>
+						<option>4</option>
+						<option>3</option>
+						<option>10</option>
+						<answer>4</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>teach</option>
+						<option>Do you</option>
+						<option>young</option>
+						<option>subtraction</option>
+						<option>to</option>
+						<option>children?</option>
+						<answer>Do you teach subtraction to young children?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>away</option>
+						<option>Then</option>
+						<option>one</option>
+						<option>doll.</option>
+						<option>I</option>
+						<option>take</option>
+						<answer>Then I take away one doll.</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<option>two</option>
+						<option>equals</option>
+						<option>Five</option>
+						<option>three.</option>
+						<option>minus</option>
+						<answer>Five minus two equals three.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0204C.jpg</image>
+				<audio>NDE0204C.mp3</audio>
+				<viewscript>Kathy: Now let's go to our phones. Hello. You're on the air with New Dynamic English.
+				
+Carol: Hello. My name is Carol. I'm from Sioux City. I have a question for Richard.
+
+Richard: Yes, go ahead.
+
+Carol: How do you teach multiplication to children? 
+
+Richard: I try to make it easy for them. For example, I give two dolls to three different children: Betsy, John, and Sara. Now, Betsy has two dolls. John has two dolls. And Sara has two dolls. Two plus two plus two equals six. That's addition.
+         But we can also say: 
+		 Three children. 
+		 Each child has two dolls. 
+		 So there are six dolls all together. 
+		 Three... times two... equals... six. 
+		 Three children... times two dolls... equals six dolls. 
+		 Three times two equals six.
+
+Carol: I see. Thank you.</viewscript>
+				<comprehension>
+					<title>Lesson 4-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How many dolls does Richard give to each of the children?</question>
+						<option>two</option>
+						<option>three</option>
+						<option>one</option>
+						<answer>two</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Which equation shows how many dolls the children have?</question>
+						<option>both equations</option>
+						<option>2 + 2 + 2 = 6</option>
+						<option>2 x 3 = 6</option>
+						<answer>both equations</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What kind of mathematics is 4 times 3 equals 12?</question>
+						<option>multiplication</option>
+						<option>addition</option>
+						<option>subtraction</option>
+						<answer>multiplication</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I give two dolls to three _________ children.</question>
+						<option>different</option>
+						<option>same</option>
+						<option>each</option>
+						<answer>different</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Three children _____ two dolls equals six dolls.</question>
+						<option>times</option>
+						<option>multiply</option>
+						<option>plus</option>
+						<answer>times</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>____ child has two dolls.</question>
+						<option>Each</option>
+						<option>All</option>
+						<option>Different</option>
+						<answer>Each</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="5">
+		<title>Unit 5: What are you studying?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0205A.jpg</image>
+				<audio>NDE0205A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sandy Steele. Sandy is a student at American University, here in Washington, D.C. Welcome to our show.
+				
+Sandy: Thanks for having me back.
+
+Kathy: Tell us a little about your studies.
+
+Sandy: Well, I'm a student at American University. I'm in my second year.
+
+Kathy: What are you studying?
+
+Sandy: I'm interested in science. So I'm taking two science courses.
+
+Kathy: What are they?
+
+Sandy: I'm taking Chemistry and Physics. I want to be a physicist.
+
+Kathy: Are you taking any other courses?
+
+Sandy: Yes. I'm taking History and English literature.</viewscript>
+				<comprehension>
+					<title>Lesson 5-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How long has Sandy been at American University?</question>
+						<option>This is his second year. He's a sophomore.</option>
+						<option>This is his first year. He's a freshman.</option>
+						<option>This is his third year. He's a junior.</option>
+						<answer>This is his second year. He's a sophomore.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How many science courses is Sandy taking?</question>
+						<option>two -- Chemistry and Physics</option>
+						<option>three -- Chemistry, Physics, and Biology</option>
+						<option>one -- Physics</option>
+						<answer>two -- Chemistry and Physics</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What does Sandy want to be?</question>
+						<option>a physicist</option>
+						<option>a chemist</option>
+						<option>a scientist</option>
+						<answer>a physicist</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I'm in my ______ year.</question>
+						<option>second</option>
+						<option>two</option>
+						<option>number two</option>
+						<answer>second</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I'm interested __ science.</question>
+						<option>in</option>
+						<option>to</option>
+						<option>for</option>
+						<answer>in</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Are you ______ any other courses?</question>
+						<option>taking</option>
+						<option>having</option>
+						<option>making</option>
+						<answer>taking</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0205B.jpg</image>
+				<audio>NDE0205B.mp3</audio>
+				<viewscript>Kathy: We're back with Sandy Steele. Sandy is a student at American University. Where's your friend Pat today?  What's she doing?
+				
+Sandy: She's at the library. She's studying for a test.
+
+Kathy: What kind of test?
+
+Sandy: It's for her Spanish class. She's taking Spanish this term.
+
+Kathy: Are you taking that class too?
+
+Sandy: No, I'm not. I'm not taking Spanish.
+
+Kathy: Are you taking any foreign languages, like French or Chinese?
+
+Sandy: No. No, I'm not.
+
+Kathy: What other courses is Pat taking?
+
+Sandy: Well, we're both taking the same English literature class. And she's taking two acting classes in the Drama department.</viewscript>
+				<comprehension>
+					<title>Lesson 5-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0205B_Q1.mp3|Where is Sandy's friend Pat today?</question>
+						<option>She's at the library.</option>
+						<option>She is in the Drama department.</option>
+						<option>She's taking Spanish.</option>
+						<answer>She's at the library.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0205B_Q2.mp3|What kind of test is she studying for?</question>
+						<option>a Spanish test</option>
+						<option>a French test</option>
+						<option>a Chinese test</option>
+						<answer>a Spanish test</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0205B_Q3.mp3|What other courses is Pat taking?</question>
+						<option>two acting classes and English literature</option>
+						<option>French and Chinese</option>
+						<option>Spanish</option>
+						<answer>two acting classes and English literature</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>Pat</option>
+						<option>Where's</option>
+						<option>your</option>
+						<option>friend</option>
+						<option>today?</option>
+						<answer>Where's your friend Pat today?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>courses</option>
+						<option>taking?</option>
+						<option>What</option>
+						<option>other</option>
+						<option>Pat</option>
+						<option>is</option>
+						<answer>What other courses is Pat taking?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>acting classes</option>
+						<option>two</option>
+						<option>Drama department.</option>
+						<option>She's</option>
+						<option>taking</option>
+						<option>in the</option>
+						<answer>She's taking two acting classes in the Drama department.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0205C.jpg</image>
+				<audio>NDE0205C.mp3</audio>
+				<viewscript>Kathy: Where do you live? Do you live on campus?
+				
+Sandy: Yes, I do.
+
+Kathy: In a dormitory?
+
+Sandy: Yes, I live in a dormitory.
+
+Kathy: Do you have a roommate?
+
+Sandy: Yes, I do. I have a roommate. He comes from Arizona.</viewscript>
+				<comprehension>
+					<title>Lesson 5-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where does Sandy live?</question>
+						<option>in a dormitory</option>
+						<option>in an apartment</option>
+						<option>with his parents</option>
+						<answer>in a dormitory</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Does Sandy live by himself?</question>
+						<option>No, he doesn't.</option>
+						<option>Yes, he does.</option>
+						<option>He has two roommates.</option>
+						<answer>No, he doesn't.</answer>				
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who comes from Arizona?</question>
+						<option>Sandy's roommate</option>
+						<option>Sandy</option>
+						<option>Pat</option>
+						<answer>Sandy's roommate</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Do you live _________?</question>
+						<option>on campus</option>
+						<option>dormitory</option>
+						<option>university</option>
+						<answer>on campus</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I live in a _________.</question>
+						<option>dormitory</option>
+						<option>campus</option>
+						<option>roommate</option>
+						<answer>dormitory</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>______ have a roommate?</question>
+						<option>Do you</option>
+						<option>Are you</option>
+						<option>Do</option>
+						<answer>Do you</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="6">
+		<title>Unit 6: Who do you work for?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0206A.jpg</image>
+				<audio>NDE0206A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Denise Collins. Good morning, Ms. Collins.
+				
+Denise: Good morning.  Please call me Denise.
+
+Kathy: OK. Please call me Kathy. Congratulations on your award: Employee of the Year.
+
+Denise: Thank you.
+
+Kathy: Tell us a little about yourself.
+
+Denise: I'm a receptionist.
+
+Kathy: Who do you work for?
+
+Denise: I work for Graham and Green. It's a law firm.
+
+Kathy: Can you tell us a little about your work?
+
+Denise: Well, I answer phones. I take messages. And I greet visitors. Sometimes I schedule appointments.</viewscript>
+				<comprehension>
+					<title>Lesson 6-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Denise do?</question>
+						<option>She's a receptionist.</option>
+						<option>She's a lawyer.</option>
+						<option>She works on a farm.</option>
+						<answer>She's a receptionist.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Who does she work for?</question>
+						<option>a law firm</option>
+						<option>the phone company</option>
+						<option>a doctor's office</option>
+						<answer>a law firm</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What doesn't she do?</question>
+						<option>interview new employees</option>
+						<option>answer phones</option>
+						<option>schedule appointments</option>
+						<answer>interview new employees</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>___ do you work for?</question>
+						<option>Who</option>
+						<option>Where</option>
+						<option>What</option>
+						<answer>Who</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I ________ Graham and Green, a law firm.</question>
+						<option>work for</option>
+						<option>work</option>
+						<option>am working</option>
+						<answer>work for</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I ______ phones and take messages.</question>
+						<option>answer</option>
+						<option>talk</option>
+						<option>make</option>
+						<answer>answer</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0206B.jpg</image>
+				<audio>NDE0206B.mp3</audio>
+				<viewscript>Kathy: Can you tell us a little about your work?
+				
+Denise: Well, I answer phones. I take messages. And I greet visitors. Sometimes I schedule appointments.
+
+Kathy: Anything else?
+
+Denise: Most of my work is on the telephone. As you know, I'm blind. I can't see. So there are some things I can't do.
+
+Kathy: I know you do a wonderful job.
+
+Denise: Well, thank you.
+
+Kathy: Do you like your work? 
+
+Denise: Yes, I do. I like talking to people. And I really like the people in my office, the lawyers. I want to be a lawyer some day. Right now, I'm taking law classes at night school.</viewscript>
+				<comprehension>
+					<title>Lesson 6-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0206B_Q1.mp3|What can't Denise do?</question>
+						<option>She can't see. She's blind.</option>
+						<option>She can't walk. She is in a wheelchair.</option>
+						<option>he does not have a disability.</option>
+						<answer>She can't see. She's blind.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0206B_Q2.mp3|What does Denise like best about her work?</question>
+						<option>talking to people</option>
+						<option>writing reports</option>
+						<option>being a lawyer</option>
+						<answer>talking to people</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0206B_Q3.mp3|What is she studying at night school?</question>
+						<option>law</option>
+						<option>computing</option>
+						<option>telephone skills</option>
+						<answer>law</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>Most of</option>
+						<option>is</option>
+						<option>my</option>
+						<option>work</option>
+						<option>on</option>
+						<option>the telephone.</option>
+						<answer>Most of my work is on the telephone.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>I can't</option>
+						<option>are</option>
+						<option>things</option>
+						<option>some</option>
+						<option>do.</option>
+						<option>There</option>
+						<answer>There are some things I can't do.</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<option>be</option>
+						<option>I</option>
+						<option>some day.</option>
+						<option>a lawyer</option>
+						<option>want</option>
+						<option>to</option>
+						<answer>I want to be a lawyer some day.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0206C.jpg</image>
+				<audio>NDE0206C.mp3</audio>
+				<viewscript>Kathy: We're talking with Denise Collins, Employee of the Year at Graham and Green. Do you live in Washington?
+				
+Denise: I live in Belle Haven.
+
+Kathy: Belle Haven? Where's that?
+
+Denise: It's in Virginia. It's near Alexandria. We live in an apartment, my husband and I, and our children.
+
+Kathy: How many children do you have?
+
+Denise: Two. Two girls.
+
+Kathy: How old are they?
+
+Denise: Well, Rachel is eleven and Alex is seven. Here are their pictures.
+
+Kathy: Oh, they're beautiful!
+
+Denise: Well, thank you.</viewscript>
+				<comprehension>
+					<title>Lesson 6-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who does Denise live with?</question>
+						<option>her husband and her children</option>
+						<option>her two children</option>
+						<option>She lives alone.</option>
+						<answer>her husband and her children</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How many children does she have?</question>
+						<option>Two. They are both girls.</option>
+						<option>Two. One girl and one boy.</option>
+						<option>Three. Two girls and one boy.</option>
+						<answer>Two. They are both girls.</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How old are her children?</question>
+						<option>11 and 7</option>
+						<option>11 and 17</option>
+						<option>6 and 11</option>
+						<answer>11 and 7</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>______ live in Washington?</question>
+						<option>Do you</option>
+						<option>You do</option>
+						<option>Where</option>
+						<answer>Do you</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>We live __ an apartment.</question>
+						<option>in</option>
+						<option>at</option>
+						<option>on</option>
+						<answer>in</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>________ children do you have?</question>
+						<option>How many</option>
+						<option>How much</option>
+						<option>How old</option>
+						<answer>How many</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0206_bonus.jpg</image>
+				<audio>NDE0206_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. Today I'm standing in front of the Air and Space Museum in Washington, D.C. People are waiting to see the American astronaut, John Dale. He's making a special visit here today. Excuse me?
+				
+Woman: Yes.
+
+Kent: Are you waiting to see John Dale?
+
+Woman: Yes, that's right.
+
+Kent: Are you here by yourself?
+
+Woman: No, my sister is with me. Well, she's not here right now. She's eating lunch at the cafeteria in the museum.
+
+Kent: Do you live in Washington?
+
+Woman: No, I don't. I'm from Ohio. I'm here visiting my sister. I'm staying with her for a few days.
+
+Kent: She lives in Washington?
+
+Woman: That's right. Oh, look! There's John Dale now!
+
+Kent: Where?
+
+Woman: He's coming through that door. Do you see him? He's wearing a gray jacket.
+
+Kent: Oh, yes. There he is. Excuse me... Well, thanks for talking with me.
+
+Woman: My pleasure.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who does that woman want to see?</question>
+						<option>an astronaut</option>
+						<option>her sister</option>
+						<option>the air and space museum</option>
+						<answer>an astronaut</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where does the woman live?</question>
+						<option>Ohio</option>
+						<option>Washington</option>
+						<option>She doesn't say.</option>
+						<answer>Ohio</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Why does the woman stop the conversation?</question>
+						<option>She wants to see John Dale.</option>
+						<option>She wants to find her sister.</option>
+						<option>She wants to visit the museum.</option>
+						<answer>She wants to see John Dale.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Are you _______ to see John Dale?</question>
+						<option>waiting</option>
+						<option>wait</option>
+						<option>to wait</option>
+						<answer>waiting</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>_____ eating lunch at the cafetaria in the museum.</question>
+						<option>She's</option>
+						<option>She</option>
+						<option>Her</option>
+						<answer>She's</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>___ staying with my sister for a few days.</question>
+						<option>I'm</option>
+						<option>I will</option>
+						<option>I</option>
+						<answer>I'm</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="7">
+		<title>Unit 7: The Harris family</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0207A.jpg</image>
+				<audio>NDE0207A.mp3</audio>
+				<viewscript>Kathy: Our guests today are Bob and Sandra Harris. Hi, Bob.
+				
+Bob: Hi, Kathy. Kathy, I'd like to introduce my wife, Sandra.
+
+Kathy: Hi, Sandra.
+
+Sandra: Hello, Kathy. I"m pleased to meet you.
+
+Kathy: I'm pleased to meet you too. Sandra, this is your first time on our show.
+
+Sandra: That's right.
+
+Kathy: Tell us a little about yourself.
+
+Sandra: Well, as you know, we live in Florida.
+
+Kathy: In Miami.
+
+Sandra: That's right. We live in Miami.
+
+Kathy: What do you do?
+
+Sandra: I'm a music teacher. I teach piano.
+
+Kathy: Do you teach at a school?
+
+Sandra: No, I don't. I teach at home. My students come to our house.</viewscript>
+				<comprehension>
+					<title>Lesson 7-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Sandra do?</question>
+						<option>She teaches music.</option>
+						<option>She's a student.</option>
+						<option>She's a college professor.</option>
+						<answer>She teaches music.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where does she work?</question>
+						<option>at home</option>
+						<option>at a music school</option>
+						<option>at her students homes</option>
+						<answer>at home</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What instrument does she teach?</question>
+						<option>piano</option>
+						<option>violin</option>
+						<option>music</option>
+						<answer>piano</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I'd like ____________ my wife, Sandra.</question>
+						<option>to introduce</option>
+						<option>introduce</option>
+						<option>introducing</option>
+						<answer>to introduce</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I'm _______ to meet you.</question>
+						<option>pleased</option>
+						<option>please</option>
+						<option>pleasant</option>
+						<answer>pleased</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>My students come to ___ house.</question>
+						<option>our</option>
+						<option>their</option>
+						<option>mine</option>
+						<answer>our</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0207B.jpg</image>
+				<audio>NDE0207B.mp3</audio>
+				<viewscript>Kathy: What about you, Bob? What do you do?
+				
+Bob: I work at the post office. I'm a postal worker.
+
+Kathy: Tell us about your family, Sandra.
+
+Sandra: Well, we have two children, a boy and a girl. Our daughter's name is Collette. Our son's name is John.</viewscript>
+				<comprehension>
+					<title>Lesson 7-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0207B_Q1.mp3|Who is a postal worker?</question>
+						<option>Bob</option>
+						<option>Sandra</option>
+						<option>John</option>
+						<answer>Bob</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0207B_Q2.mp3|What is their daughter's name?</question>
+						<option>Collette</option>
+						<option>John</option>
+						<option>Sandra</option>
+						<answer>Collette</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question> NDE0207B_Q3.mp3|How many children do Bob and Sandra have?</question>
+						<option>two</option>
+						<option>three</option>
+						<option>one</option>
+						<answer>two</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>I</option>
+						<option>at</option>
+						<option>the </option>
+						<option>work</option>
+						<option>post office.</option>
+						<answer>I work at the post office.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>us</option>
+						<option>Tell</option>
+						<option>your</option>
+						<option>about</option>
+						<option>family.</option>
+						<answer>Tell us about your family.</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<option>John.</option>
+						<option>son's</option>
+						<option>is</option>
+						<option>Our</option>
+						<option>name</option>
+						<answer>Our son's name is John.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0207C.jpg</image>
+				<audio>NDE0207C.mp3</audio>
+				<viewscript>Kathy: Our guests today are Bob and Sandra Harris. Can you tell us some more about your children? How old are they?
+				
+Sandra: Well, our daughter, Collette, is eighteen.
+
+Bob: Our son, John, is sixteen. They're both in high school.
+
+Kathy: What are their hobbies? What do they like to do?
+
+Sandra: John loves gymnastics.
+
+Kathy: Gymnastics!
+
+Bob: Yes. And Collette is studying violin.
+
+Kathy: So she likes music?
+
+Bob: That's right.</viewscript>
+				<comprehension>
+					<title>Lesson 7-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who is older, John or Collette?</question>
+						<option>Collette</option>
+						<option>John</option>
+						<option>They are at the same age.</option>
+						<answer>Collette</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What does John like to do?</question>
+						<option>do gymnastics</option>
+						<option>play the violin</option>
+						<option>goes to high school</option>
+						<answer>do gymnastics</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Which child is studying music?</question>
+						<option>Collette</option>
+						<option>John</option>
+						<option>Sandra</option>
+						<answer>Collette</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>_______ are your children?</question>
+						<option>How old</option>
+						<option>How many year</option>
+						<option>How many ages</option>
+						<answer>How old</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What __ they like to do?</question>
+						<option>do</option>
+						<option>are</option>
+						<option>does</option>
+						<answer>do</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Collette is ________ violin.</question>
+						<option>studying</option>
+						<option>study</option>
+						<option>to study</option>
+						<answer>studying</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="8">
+		<title>Unit 8: What time do you get up?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0208A.jpg</image>
+				<audio>NDE0208A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Bob Harris. Bob is married and has two children. His wife's name is Sandra. Welcome back, Bob. You work at the post office, right?
+
+Bob: That's right.
+
+Kathy: Do you work every day?
+
+Bob: I work five days a week: Monday through Friday. I don't work on weekends.
+
+Kathy: Let's talk about your daily schedule, okay?
+
+Bob: OK.
+
+Kathy: What time do you get up?
+
+Bob: Oh, I get up at... 6:45.
+
+Kathy: Do you usually eat breakfast?
+
+Bob: Yes, I do. We eat breakfast at 7:15. We all eat breakfast together.
+
+Kathy: When do you leave your house?
+
+Bob: I leave at ... oh, about 7:45.
+
+Kathy: And when do you get to work?
+
+Bob: I get to work at 8:45.</viewscript>
+				<comprehension>
+					<title>Lesson 8-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What time does Bob get up?</question>
+						<option>at 6:45</option>
+						<option>at 7:15</option>
+						<option>at 7:45</option>
+						<answer>at 6:45</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Does he usually eat breakfast?</question>
+						<option>Yes, he does.</option>
+						<option>No, he doesn't.</option>
+						<option>Sometimes he does. Sometimes he doesn't.</option>
+						<answer>Yes, he does.</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What does he do at 7:45?</question>
+						<option>He leaves his house.</option>
+						<option>He gets up.</option>
+						<option>He arrives at work.</option>
+						<answer>He leaves his house.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I don't ____ on weekends.</question>
+						<option>work</option>
+						<option>to work</option>
+						<option>working</option>
+						<answer>work</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>We eat breakfast __ 7:15.</question>
+						<option>at</option>
+						<option>on</option>
+						<option>to</option>
+						<answer>at</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>When do you _____ your house?</question>
+						<option>leave</option>
+						<option>get</option>
+						<option>go</option>
+						<answer>leave</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0208B.jpg</image>
+				<audio>NDE0208B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Bob Harris. Bob works in the post office. He gets to work at 8:45 in the morning.
+				
+Bob: And I start working at 9:00.
+
+Kathy: What do you do after work?
+
+Bob: Well, I stop working at 5:00. And I usually leave around 5:15.
+
+Kathy: What do you do then?
+
+Bob: Sometimes I go shopping after work...  before I go home. I get home around 6:30 in the evening. We eat dinner around 7:00.
+
+Kathy: And after dinner?
+
+Bob: After dinner, I usually read the newspaper.
+
+Kathy: You don't read the newspaper in the morning... before you go to work?
+
+Bob: No, I don't. I don't have time in the morning.
+
+Kathy: What time do you usually go to bed?
+
+Bob: I go to bed around 11:00, after I watch the news on TV.
+
+Kathy: Thank you, Bob.</viewscript>
+				<comprehension>
+					<title>Lesson 8-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0208B_Q1.mp3|When does Bob leave the office?</question>
+						<option>Around 5:15</option>
+						<option>At 5:00 sharp</option>
+						<option>After 5:30</option>
+						<answer>Around 5:15</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0208B_Q2.mp3|When does Bob read the newspaper?</question>
+						<option>after dinner</option>
+						<option>before dinner</option>
+						<option>in the morning</option>
+						<answer>after dinner</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0208B_Q3.mp3|What does he do just before he goes to bed?</question>
+						<option>He watches the news on TV.</option>
+						<option>He goes to bed at 11:00.</option>
+						<option>He reads the newspaper.</option>
+						<answer>He watches the news on TV.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>What</option>
+						<option>after</option>
+						<option>you do</option>
+						<option>do</option>
+						<option>work?</option>
+						<answer>What do you do after work?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>get home</option>
+						<option>around</option>
+						<option>I</option>
+						<option>6:30</option>
+						<option>in the evening.</option>
+						<answer>I get home around 6:30 in the evening.</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<option>do</option>
+						<option>to bed?</option>
+						<option>time</option>
+						<option>go</option>
+						<option>What</option>
+						<option>you usually</option>
+						<answer>What time do you usually go to bed?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0208C.jpg</image>
+				<audio>NDE0208C.mp3</audio>
+				<viewscript>Kathy: How do you get to work?
+				
+Bob: I drive. I drive my car.
+
+Kathy: How long does it take?
+
+Bob: How long does it take me to get to work?
+
+Kathy: Yes.
+
+Bob: Oh, about an hour. It takes about an hour. I leave the house at 7:45 and I get to work at 8:45.
+
+Kathy: An hour? That's pretty long.
+
+Bob: I know. It's not far... but there's usually a lot of traffic.
+
+Kathy: I see. Rush hour.</viewscript>
+				<comprehension>
+					<title>Lesson 8-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How does Bob get to work?</question>
+						<option>He drives his car.</option>
+						<option>He takes the bus.</option>
+						<option>He takes the train.</option>
+						<answer>He drives his car.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How long does it take for him to get to work?</question>
+						<option>about an hour</option>
+						<option>at 8:45</option>
+						<option>45 minutes</option>
+						<answer>about an hour</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>When does he get to work?</question>
+						<option>8:45</option>
+						<option>7:45</option>
+						<option>about an hour</option>
+						<answer>8:45</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>___ do you get to work?</question>
+						<option>How</option>
+						<option>What</option>
+						<option>How long</option>
+						<answer>How</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>How long does _______ to get to work?</question>
+						<option>it take</option>
+						<option>take</option>
+						<option>taking</option>
+						<answer>it take</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I _____ the house at 7:45.</question>
+						<option>leave</option>
+						<option>leaving</option>
+						<option>leaves</option>
+						<answer>leave</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="9">
+		<title>Unit 9: Do you teach every day?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0209A.jpg</image>
+				<audio>NDE0209A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sandra Harris. Welcome back, Sandra.
+				
+Sandra: It's nice to be here.
+
+Kathy: You're a music teacher.
+
+Sandra: That's right.
+
+Kathy: Do you teach every day?
+
+Sandra: No, not every day. I teach three days a week: Mondays, Wednesdays, and Thursdays.
+
+Kathy: So you don't teach on Tuesdays and Fridays.
+
+Sandra: That's right. And I don't teach on the weekends.</viewscript>
+				<comprehension>
+					<title>Lesson 9-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How many days a week does Sandra teach?</question>
+						<option>three</option>
+						<option>five</option>
+						<option>She teaches every day.</option>
+						<answer>three</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What weekdays doesn't she teach?</question>
+						<option>Tuesdays and Fridays</option>
+						<option>Monday, Wednesdays, and Thursdays</option>
+						<option>She teaches Monday through Friday.</option>
+						<answer>Tuesdays and Fridays</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Does she teach on the weekends?</question>
+						<option>No, she doesn't.</option>
+						<option>She teaches on Saturday but not Sunday.</option>
+						<option>She sometimes teaches on the weekend.</option>
+						<answer>No, she doesn't.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Do you teach _____ day?</question>
+						<option>every</option>
+						<option>very</option>
+						<option>ever</option>
+						<answer>every</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I teach three days _ week.</question>
+						<option>a</option>
+						<option>during</option>
+						<option>the</option>
+						<answer>a</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I _____ teach on the weekends.</question>
+						<option>don't</option>
+						<option>does</option>
+						<option>not</option>
+						<answer>don't</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0209B.jpg</image>
+				<audio>NDE0209B.mp3</audio>
+				<viewscript>Kathy: Could you tell us about your daily schedule?
+				
+Sandra: Well, my schedule is different every day. I work mostly in the afternoon. On Mondays, I teach for two hours, from 2:30 to 4:30. On Wednesdays, I teach for 3 hours, from 3:00 to 6:00. And on Thursdays, I teach in the evening, from 7:30 to 10:00.
+
+Kathy: What do you do on the other days... when you're not teaching?
+
+Sandra: Well, I practice the piano for at least two hours every day. Right now, I'm preparing for a concert. I also go shopping. And on Tuesdays, I drive Collette to her violin lesson.</viewscript>
+				<comprehension>
+					<title>Lesson 9-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0209B_Q1.mp3|How many hours does she teach on Mondays?</question>
+						<option>two hours</option>
+						<option>three hours</option>
+						<option>from 3:00 to 6:00</option>
+						<answer>two hours</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0209B_Q2.mp3|On what days does she teach in the evening?</question>
+						<option>on Thursdays</option>
+						<option>twice a week</option>
+						<option>on Monday and Wednesday</option>
+						<answer>on Thursdays</answer>		
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0209B_Q3.mp3|How often does she practice the piano?</question>
+						<option>every day for at least two hours</option>
+						<option>whenever she isn't teaching</option>
+						<option>before every concert</option>
+						<answer>every day for at least two hours</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>every</option>
+						<option>My</option>
+						<option>schedule</option>
+						<option>different</option>
+						<option>is</option>
+						<option>day.</option>
+						<answer>My schedule is different every day.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>do you do</option>
+						<option>you're</option>
+						<option>working?</option>
+						<option>not</option>
+						<option>when</option>
+						<option>What</option>
+						<answer>What do you do when you're not working?</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<option>the piano</option>
+						<option>every day.</option>
+						<option>for</option>
+						<option>two</option>
+						<option>I practice</option>
+						<option>hours</option>
+						<answer>I practice the piano for two hours every day.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0209C.jpg</image>
+				<audio>NDE0209C.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sandra Harris. She teaches piano three days a week. How many students do you have?
+				
+Sandra: I have fourteen students.
+
+Kathy: How often do they study?
+
+Sandra: Most of my students come to my house one day a week. My best student, Mary, comes two days a week, on Mondays and Thursdays.
+
+Kathy: How long are her lessons?
+
+Sandra: She studies for forty-five minutes, twice a week. My other students study for thirty minutes, once a week.</viewscript>
+				<comprehension>
+					<title>Lesson 9-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How many students does Sandra have?</question>
+						<option>14</option>
+						<option>40</option>
+						<option>41</option>
+						<answer>14</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How often do most of her students study?</question>
+						<option>once a week</option>
+						<option>twice a week</option>
+						<option>once a month</option>
+						<answer>once a week</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How long are Mary's lessons?</question>
+						<option>45 minutes</option>
+						<option>30 minutes</option>
+						<option>twice a week</option>
+						<answer>45 minutes</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>How ____ students do you have?</question>
+						<option>many</option>
+						<option>much</option>
+						<option>long</option>
+						<answer>many</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>How _____ do your students study?</question>
+						<option>often</option>
+						<option>many</option>
+						<option>times</option>
+						<answer>often</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>How ____ are their lessons?</question>
+						<option>long</option>
+						<option>many</option>
+						<option>minutes</option>
+						<answer>long</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0209_bonus.jpg</image>
+				<audio>NDE0209_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. Today I'm standing on Wisconsin Avenue in Georgetown. Georgetown is the oldest part of Washington, D.C. Excuse me, sir?
+				
+Man: Yes.
+
+Kent: Are you on your way to work? 
+
+Man: Well, actually, I'm on my way home.
+
+Kent: But it's eight o'clock in the morning!
+
+Man: Yes. I work at night. I'm a security guard.
+
+Kent: A security guard?
+
+Man: That's right. I go to work at 11:00 at night. And I work until 7:00 in the morning. Then I eat breakfast, and go home.
+
+Kent: Then do you go to bed and sleep all day?
+
+Man: Yes. I usually go to bed around ten or eleven in the morning.
+
+Kent: When do you get up?
+
+Man: I get up around five... in the evening. Then I eat another breakfast.
+
+Kent: Really? You eat two breakfasts?
+
+Man: Well, I like breakfast. I usually bring a sandwich to work. And maybe a piece of fruit. Sorry, but I have to go. It's been nice talking with you.
+
+Kent: Thank you.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where is the man going this morning?</question>
+						<option>He's going home from work.</option>
+						<option>He's on his way to work.</option>
+						<option>He is going to the bank.</option>
+						<answer>He's going home from work.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What time does the man usually go to bed?</question>
+						<option>Around 10:00 or 11:00 in the morning</option>
+						<option>11:00 at night</option>
+						<option>8:00 pm</option>
+						<answer>Around 10:00 or 11:00 in the morning</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What meal does he eat around 6:00 in the evening?</question>
+						<option>breakfast</option>
+						<option>lunch</option>
+						<option>dinner</option>
+						<answer>breakfast</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I go to work __ 11:00 at night.</question>
+						<option>at</option>
+						<option>on</option>
+						<option>in</option>
+						<answer>at</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I work _____ 7:00 in the morning.</question>
+						<option>until</option>
+						<option>at</option>
+						<option>by</option>
+						<answer>until</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I usually __ to bed around ten or eleven in the morning.</question>
+						<option>go</option>
+						<option>going</option>
+						<option>am going</option>
+						<answer>go</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="10">
+		<title>Unit 10: How long does it take?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0210A.jpg</image>
+				<audio>NDE0210A.mp3</audio>
+				<viewscript>Kathy: Our guest today is John Harris. Hi, John.
+				
+John: Hello, Kathy. It's nice to be here.
+
+Kathy: You're interested in gymnastics, aren't you?
+
+John: Yeah. I love gymnastics.
+
+Kathy: Do you practice a lot?
+
+John: Yeah, I practice every day, before and after school.
+
+Kathy: Really? That's a lot!
+
+John: Yeah, but I enjoy it.
+
+Kathy: So what's your daily schedule?
+
+John: Well, I get up early every morning, at 6:15. I take a shower, then I eat breakfast. After breakfast, I go to school. I leave the house around 7:30. I practice gymnastics in the gym at school.
+
+Kathy: What time do you get to school?
+
+John: I get to school around 7:45.
+
+Kathy: So it only takes fifteen minutes?
+
+John: That's right. It takes me about fifteen minutes to get to school.</viewscript>
+				<comprehension>
+					<title>Lesson 10-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When does John practice gymnastics?</question>
+						<option>before and after school</option>
+						<option>before school</option>
+						<option>after school</option>
+						<answer>before and after school</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Which does he do first, take a shower or eat breakfast?</question>
+						<option>He takes a shower first.</option>
+						<option>He eats breakfast first.</option>
+						<option>He doesn't eat breakfast.</option>
+						<answer>He takes a shower first.</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How long does it take him to get to school?</question>
+						<option>15 minutes</option>
+						<option>50 minutes</option>
+						<option>over an hour</option>
+						<answer>15 minutes</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>_____ breakfast, I go to school.</question>
+						<option>After</option>
+						<option>Until</option>
+						<option>During</option>
+						<answer>After</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What time ______ get to school?</question>
+						<option>do you</option>
+						<option>you</option>
+						<option>are you</option>
+						<answer>do you</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>___________ about 15 minutes to get to school.</question>
+						<option>It takes me</option>
+						<option>It me takes</option>
+						<option>Me it takes</option>
+						<answer>It takes me</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0210B.jpg</image>
+				<audio>NDE0210B.mp3</audio>
+				<viewscript>Kathy: What do you do when you get to school?
+				
+John: I practice gymnastics in the gym. I practice from 8:00 to 8:30.
+
+Kathy: What time does school start?
+
+John: School starts at 8:45.
+
+Kathy: So your mornings are very busy.
+
+John: Yes, they are.
+
+Kathy: Okay, now let's talk about your afternoon schedule. What do you do after school?
+
+John: Well, my classes finish at 3:00. Then I practice gymnastics until 5:00.
+
+Kathy: So you practice for about two hours?
+
+John: That's right. Then I go home. I usually get home before 6:00.
+
+Kathy: When do you do your homework?
+
+John: After dinner. I do my homework after dinner, until around 10:00 or 10:30. Then I go bed, usually between 10:30 and 11:00.
+
+Kathy: You work very hard!</viewscript>
+				<comprehension>
+					<title>Lesson 10-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0210B_Q1.mp3|How long does he practice gymnastics in the morning?</question>
+						<option>for a half an hour</option>
+						<option>for two hours</option>
+						<option>from 3:00 until 5:00</option>
+						<answer>for a half an hour</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0210B_Q2.mp3|What time do his classes end?</question>
+						<option>3:00</option>
+						<option>3:45</option>
+						<option>5:00</option>
+						<answer>3:00</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0210B_Q3.mp3|When does he do his homework?</question>
+						<option>after dinner</option>
+						<option>before dinner</option>
+						<option>between 10:00 and 10:30</option>
+						<answer>after dinner</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>do you</option>
+						<option>What</option>
+						<option>do</option>
+						<option>you get</option>
+						<option>when</option>
+						<option>to school?</option>
+						<answer>What do you do when you get to school?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>usually</option>
+						<option>home</option>
+						<option>I</option>
+						<option>6:00.</option>
+						<option>get</option>
+						<option>before</option>
+						<answer>I usually get home before 6:00.</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<option>do you</option>
+						<option>homework?</option>
+						<option>do</option>
+						<option>When</option>
+						<option>your</option>
+						<answer>When do you do your homework?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0210C.jpg</image>
+				<audio>NDE0210C.mp3</audio>
+				<viewscript>Max: How do you get to school?
+				
+John: I drive to school on my motorbike.
+
+Max: How long does it take you to get to school?
+
+John: It takes me about fifteen minutes.
+
+Max: How does your sister get to school?
+
+John: She takes the bus.
+
+Max: How long does it take her? How long does it take her to get to school?
+
+John: It takes her twenty minutes to get to school.</viewscript>
+				<comprehension>
+					<title>Lesson 10-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who goes to school by bus?</question>
+						<option>Collette</option>
+						<option>John</option>
+						<option>John and Collette</option>
+						<answer>Collette</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How long does it take John to get to school?</question>
+						<option>15 minutes</option>
+						<option>20 minutes</option>
+						<option>more than 20 minutes</option>
+						<answer>15 minutes</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who takes longer to get to school?</question>
+						<option>Collette</option>
+						<option>John</option>
+						<option>They both take the same time.</option>
+						<answer>Collette</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I drive to school __ my motorbike.</question>
+						<option>on</option>
+						<option>by</option>
+						<option>in</option>
+						<answer>on</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>________ does it take her to get to school?</question>
+						<option>How long</option>
+						<option>How many</option>
+						<option>How many times</option>
+						<answer>How long</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>It takes ___ 20 minutes to get to school.</question>
+						<option>her</option>
+						<option>she</option>
+						<option>its</option>
+						<answer>her</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="11">
+		<title>Unit 11: How long is her lesson?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0211A.jpg</image>
+				<audio>NDE0211A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Collette Harris. Hi, Collette.
+				
+Collette: Hello. It's nice to be here.
+
+Kathy: You and your brother, John, both go to high school, don't you?
+
+Collette: That's right.
+
+Kathy: Who's older, you or John?
+
+Collette: I am. I'm two years older than John. He's sixteen and I'm eighteen.
+
+Kathy: Tell me, who gets up first, you or John?
+
+Collette: John does. He gets up first. He usually gets up at 6:15. I get up fifteen minutes later, at 6:30.
+
+Kathy: How about breakfast? Do you eat together?
+
+Collette: We all eat breakfast together, John and I, Mom and Dad.
+
+Kathy: And then what? What happens after breakfast?
+
+Collette: Well, John leaves the house first. He leaves at 7:30. I don't leave until 8:00. School starts at 8:45.</viewscript>
+				<comprehension>
+					<title>Lesson 11-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How much older is Collette than John?</question>
+						<option>two years</option>
+						<option>18 years</option>
+						<option>John is older</option>
+						<answer>two years</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Who gets up first, John or Collette?</question>
+						<option>John</option>
+						<option>Collette</option>
+						<option>They both get up at the same time.</option>
+						<answer>John</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Does John leave the house before Collette?</question>
+						<option>Yes, he does.</option>
+						<option>No, he doesn't.</option>
+						<option>They both leave at the same time.</option>
+						<answer>Yes, he does.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I'm two years _____ than John.</question>
+						<option>older</option>
+						<option>old</option>
+						<option>as old</option>
+						<answer>older</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Who gets up first, you __ John?</question>
+						<option>or</option>
+						<option>and</option>
+						<option>to</option>
+						<answer>or</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I don't leave the house _____ 8:00.</question>
+						<option>until</option>
+						<option>in</option>
+						<option>since</option>
+						<answer>until</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0211B.jpg</image>
+				<audio>NDE0211B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Collette Harris. I understand you're a musician, Collette.
+				
+Collette: Yeah, but not like my Mom. She's really good.
+
+Kathy: You play the violin, right?
+
+Collette: Yes, I'm studying violin.
+
+Kathy: How often do you practice?
+
+Collette: I practice every day.... for about an hour.
+
+Kathy: Do you practice at school?
+
+Collette: No, I don't. I practice at home.... after school. After school I come home and practice... from 4:30 to 5:30.
+
+Kathy: Are you taking lessons?
+
+Collette: Yes. I have a lesson once a week.
+
+Kathy: When is that?
+
+Collette: My lesson is on Tuesday afternoons... at 4:00.
+
+Kathy: How do you get there? How do you get to your lesson?
+
+Collette: My mom usually drives me, but sometimes I go by bus.
+
+Kathy: How long is the lesson?
+
+Collette: It lasts an hour... until 5:00. From 4 to 5.
+
+Kathy: Is your teacher good?
+
+Collette: Yes. I have a great teacher.
+
+Kathy: So you're very busy.
+
+Collette: Yes, I guess I am.</viewscript>
+				<comprehension>
+					<title>Lesson 11-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0211B_Q1.mp3|Where does she practice the violin?</question>
+						<option>at home</option>
+						<option>at school</option>
+						<option>every day</option>
+						<answer>at home</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0211B_Q2.mp3|How often does she have a violin lesson?</question>
+						<option>once a week</option>
+						<option>every day</option>
+						<option>every Thursday</option>
+						<answer>once a week</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0211B_Q3.mp3|How long is her lesson?</question>
+						<option>one hour</option>
+						<option>an hour and a half</option>
+						<option>once a week</option>
+						<answer>one hour</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>often</option>
+						<option>How</option>
+						<option>you</option>
+						<option>do</option>
+						<option>practice?</option>
+						<answer>How often do you practice?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>a week.</option>
+						<option>once</option>
+						<option>lesson</option>
+						<option>a</option>
+						<option>have</option>
+						<option>I</option>
+						<answer>I have a lesson once a week.</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<option>5:00.</option>
+						<option>lasts</option>
+						<option>an hour,</option>
+						<option>until</option>
+						<option>My lesson</option>
+						<option>for</option>
+						<answer>My lesson lasts for an hour, until 5:00.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0211C.jpg</image>
+				<audio>NDE0211C.mp3</audio>
+				<viewscript>Peter: Hello. My name is Peter. I'm from North Carolina. I have a question for Collette.
+				
+Collette: Yes, go ahead. 
+
+Peter: What do you do on the weekend?
+
+Collette: Well, on Saturdays I like to do things with my friends. Sometimes we go shopping. Sometimes we play tennis or just talk.
+
+Peter: What about Sundays? What do you do on Sundays?
+
+Collette: I usually spend Sundays with my family. Sometimes we go to church. On Sunday nights, we usually have a big family dinner. And then I do my homework.</viewscript>
+				<comprehension>
+					<title>Lesson 11-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When does Collette like to do things with her friends?</question>
+						<option>on Saturdays</option>
+						<option>on Sundays</option>
+						<option>on both weekend days</option>
+						<answer>on Saturdays</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Does Collette like to play tennis?</question>
+						<option>Yes, she does.</option>
+						<option>No, she doesn't.</option>
+						<option>She doesn't know how to play tennis.</option>
+						<answer>Yes, she does.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>When does Collette's familys spend time together?</question>
+						<option>on Sundays</option>
+						<option>on Saturdays</option>
+						<option>all the time</option>
+						<answer>on Sundays</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What do you __ on the weekend?</question>
+						<option>do</option>
+						<option>make</option>
+						<option>spend</option>
+						<answer>do</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>__ Saturdays, I like to do things with my friends.</question>
+						<option>On</option>
+						<option>At</option>
+						<option>In</option>
+						<answer>On</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I usually _____ Sunday with my family.</question>
+						<option>spend</option>
+						<option>play</option>
+						<option>make</option>
+						<answer>spend</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="12">
+		<title>Unit 12: How do you spend the rest of your day?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0212A.jpg</image>
+				<audio>NDE0212A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Martha Harris. Welcome to our show.
+				
+Martha: It's very nice to be here.
+
+Kathy: Mrs. Harris...
+
+Martha: Oh, please call me Martha.
+
+Kathy: OK, Martha. You're a writer.
+
+Martha: Yes, that's right. I write mystery stories.
+
+Kathy: That sounds interesting. Could you tell us a little about your writing schedule?
+
+Martha: Well, I always get up early... at 5:30 or 6:00. Then I begin to work.
+
+Kathy: No coffee? Nothing to eat?
+
+Martha: Well, I sometimes have a cup of tea. I usually work for two or two and a half hours. Then I stop and eat breakfast with my husband.
+
+Kathy: Who makes breakfast?
+
+Martha: My husband usually makes breakfast, but sometimes I do. After breakfast, I work for another two or three hours.
+
+Kathy: So you write for four or five hours a day?
+
+Martha: That's right. I never write in the afternoon or at night.</viewscript>
+				<comprehension>
+					<title>Lesson 12-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Martha do?</question>
+						<option>She's a writer.</option>
+						<option>She's a cook.</option>
+						<option>She doesn't work.</option>
+						<answer>She's a writer.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Does she write before or after she eats breakfast?</question>
+						<option>She writes both before and after she eats breakfast.</option>
+						<option>before she eats breakfast</option>
+						<option>after she eats breakfast</option>
+						<answer>She writes both before and after she eats breakfast.</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How often does she write in the afternoon?</question>
+						<option>She never writes in the afternoon.</option>
+						<option>She does sometimes, but not often.</option>
+						<option>She always writes in the afternoon.</option>
+						<answer>She never writes in the afternoon.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I ______ get up early.</question>
+						<option>always</option>
+						<option>always to</option>
+						<option>am always</option>
+						<answer>always</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I _______ work for two or two and half hours.</question>
+						<option>usually</option>
+						<option>usual</option>
+						<option>almost</option>
+						<answer>usually</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>My husband usually makes breakfast, but _________ I do.</question>
+						<option>sometimes</option>
+						<option>never</option>
+						<option>always</option>
+						<answer>sometimes</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0212B.jpg</image>
+				<audio>NDE0212B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Martha Harris. You never write in the afternoon. What do you do? How do you spend the rest of your day?
+				
+Martha: Well, I volunteer at George Washington Hospital three days a week.
+
+Kathy: What else do you do?
+
+Martha: Well, my husband and I read a lot of books. Sometimes we watch television in the evening or explore the internet. We also listen to the radio a lot, usually classical music.
+
+Kathy: It sounds like you have a full schedule.
+
+Martha:	  We also take evening classes at American University, two evenings a week. I'm taking a photography class, and my husband, Tom, is taking Astronomy.</viewscript>
+				<comprehension>
+					<title>aLesson 12-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0212B_Q1.mp3|Is Martha married?</question>
+						<option>Yes, she is.</option>
+						<option>No, she isn't.</option>
+						<option>She used to be, but she isn't now.</option>
+						<answer>Yes, she is.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0212B_Q2.mp3|What do Martha and her husband like to do?</question>
+						<option>read books, watch TV, and listen to the radio</option>
+						<option>play card games and paint pictures</option>
+						<option>go to restaurants and play sports</option>
+						<answer>read books, watch TV, and listen to the radio</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0212B_Q3.mp3|What is she studying in her evening class?</question>
+						<option>Photography</option>
+						<option>Astronomy</option>
+						<option>American universities</option>
+						<answer>Photography</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>afternoon.</option>
+						<option>the</option>
+						<option>in</option>
+						<option>write</option>
+						<option>never</option>
+						<option>I</option>
+						<answer>I never write in the afternoon.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>to</option>
+						<option>classical music.</option>
+						<option>listen</option>
+						<option>We</option>
+						<option>the radio,</option>
+						<option>especially</option>
+						<answer>We listen to the radio, especially classical music.</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<option>American University</option>
+						<option>take classes</option>
+						<option>two evenings</option>
+						<option>a week.</option>
+						<option>We</option>
+						<option>at</option>
+						<answer>We take classes at American University two evenings a week.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0212C.jpg</image>
+				<audio>NDE0212C.mp3</audio>
+				<viewscript>Kathy: How often do you see your grandchildren?
+				
+Martha: John and Collette? Oh, I see them three or four times a year. They live in Florida, and I live in Washington. So I don't see them very often.
+
+Kathy: How often do you go to Florida?
+
+Martha: I go there... once or twice a year.
+
+Kathy: And how often do your grandchildren come to Washington?
+
+Martha: They come here two or three times a year.
+
+Kathy: They're in Washington now, aren't they?
+
+Martha: That's right. They're here for my eightieth birthday.
+
+Kathy: Your eightieth birthday? You're eighty years old?
+
+Martha: Yes, I am.
+
+Kathy: You look so young!
+
+Martha: Thank you for saying that.
+
+Kathy: Well, it's been a pleasure talking with you, Martha.
+
+Martha: It's been my pleasure.</viewscript>
+				<comprehension>
+					<title>Lesson 12-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who are Martha's grandchildren?</question>
+						<option>John and Collette</option>
+						<option>Bob and Sandra</option>
+						<option>Max and Kathy</option>
+						<answer>John and Collette</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How often do Martha's grandchildren come to visit their grandmother?</question>
+						<option>two or three times a year</option>
+						<option>once or twice a year</option>
+						<option>more than four times each year</option>
+						<answer>two or three times a year</answer>						
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How old is Martha?</question>
+						<option>80 years old</option>
+						<option>70 years old</option>
+						<option>88 years old</option>
+						<answer>80 years old</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>How often __________ your grandchildren?</question>
+						<option>do you see</option>
+						<option>are you seeing</option>
+						<option>see</option>
+						<answer>do you see</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I don't see my grandchildren very _____.</question>
+						<option>often</option>
+						<option>many</option>
+						<option>times</option>
+						<answer>often</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>They're here for my ____ birthday.</question>
+						<option>80th</option>
+						<option>80</option>
+						<option>18th</option>
+						<answer>80th</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0212_bonus.jpg</image>
+				<audio>NDE0212_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. Today I'm standing near the Washington Monument in Washington, D.C. A lot of people are getting onto a tour bus. Excuse me, ma'am.
+				
+Woman: Yes?
+
+Kent: Where are you going?
+
+Woman: We're going to Mount Vernon.
+
+Kent: George Washington's home?
+
+Woman: That's right. I'm very interested in George Washington.
+
+Kent: How long does it take to get there?
+
+Woman: To Mount Vernon? Oh, it's not very far. It's about 15 miles from Washington. It takes about half an hour, by bus.
+
+Kent: What do you want to see at Mount Vernon?
+
+Woman: I want to see George Washington's house and the beautiful gardens. And his farm. I also want to learn more about George Washington's life.
+
+Kent: How long does it take to see everything at Mount Vernon?
+
+Woman: Oh, it takes about two or three hours.
+
+Kent: Well, have a good time at Mount Vernon.
+
+Woman: Thank you. I'm sure we will.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who lived at Mount Vernon?</question>
+						<option>George Washington</option>
+						<option>George Vernon</option>
+						<option>Vernon Washington</option>
+						<answer>George Washington</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How far is Mount Vernon from Washington?</question>
+						<option>about 15 miles</option>
+						<option>about 15 minutes</option>
+						<option>about an hour by bus</option>
+						<answer>about 15 miles</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How long does it take to see everything at Mount Vernon?</question>
+						<option>around 2-3 hours</option>
+						<option>about half an hour</option>
+						<option>about a day</option>
+						<answer>around 2-3 hours</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I'm very __________ in George Washington.</question>
+						<option>interested</option>
+						<option>interesting</option>
+						<option>interest</option>
+						<answer>interested</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>It _____ about half an half an hour by bus.</question>
+						<option>takes</option>
+						<option>take</option>
+						<option>taking</option>
+						<answer>takes</answer>					
+					</grammaritem>
+					<grammaritem id="3">
+						<question>________ does it take to see everything at Mount Vernon?</question>
+						<option>How long</option>
+						<option>How much</option>
+						<option>What time</option>
+						<answer>How long</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>		
+		</lesson>
+	</mainlistitem>
+</mainlist>
