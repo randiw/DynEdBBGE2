@@ -1,8 +1,8 @@
 MIDlet-Name: General_English_2
-MIDlet-Version: 1.1.2
-MIDlet-Vendor: Pistarlabs
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: DynEd International
 MIDlet-Jar-URL: General_English_2.jar
-MIDlet-Jar-Size: 2719505
+MIDlet-Jar-Size: 2719494
 MIDlet-Description: The DynEd Conversations App seris for English learning with key measurements displays in unique graphic formats.
 MicroEdition-Profile: MIDP-2.0
 MicroEdition-Configuration: CLDC-1.1
@@ -12,119 +12,119 @@ MIDlet-2: GEStartup,,startup
 RIM-MIDlet-Flags-2: 3
 Manifest-Version: 1.0
 RIM-COD-URL: DynEdGE2.cod
-RIM-COD-Size: 64852
-RIM-COD-Creation-Time: 1407634405
+RIM-COD-Size: 64864
+RIM-COD-Creation-Time: 1408237236
 RIM-COD-Module-Name: DynEdGE2
 RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_messagelist,net_rim_xml,net_rim_xml_org,net_rim_os,net_rim_bbapi_browser,net_rim_networkapi
-RIM-COD-SHA1: 65 ae 58 b0 a9 7c be 5f c2 b7 33 c3 9d 41 8c 2a 91 1d 6d 0b
+RIM-COD-SHA1: 24 a9 d4 c9 8b c4 27 ed 3a 3c 44 38 33 8d 64 5a b0 e0 88 6b
 RIM-COD-URL-1: DynEdGE2-1.cod
 RIM-COD-Size-1: 65756
-RIM-COD-SHA1-1: 87 9a 5c aa 0d de 53 83 17 d8 32 bc 4f e8 d7 2f 6f 79 29 1d
+RIM-COD-SHA1-1: f4 f6 5c 49 a5 d9 e6 b6 bc 6c ab 96 c1 ca fa 2b 2b 3c 87 ac
 RIM-COD-URL-2: DynEdGE2-2.cod
 RIM-COD-Size-2: 52000
-RIM-COD-SHA1-2: b3 c7 3c 23 02 a6 aa 84 f8 1e ae 77 31 6b 6e c6 0a fb e0 ab
+RIM-COD-SHA1-2: b4 31 78 62 ae 4c ad 2e 6e 3a 6e 84 28 1c 03 a9 78 d8 09 f3
 RIM-COD-URL-3: DynEdGE2-3.cod
 RIM-COD-Size-3: 40712
-RIM-COD-SHA1-3: 70 ab 68 c2 3c fd 9d 81 0f ce 8d 86 a8 57 b4 6f 61 73 b5 a4
+RIM-COD-SHA1-3: 4f b7 65 1b 4b 0b 85 c7 dd 2d 9b 4f 52 5d 4d e5 70 8c ed 78
 RIM-COD-URL-4: DynEdGE2-4.cod
 RIM-COD-Size-4: 39680
-RIM-COD-SHA1-4: 4b f1 54 a5 c9 24 19 44 fc 95 7d a1 da 57 80 38 b7 16 64 01
+RIM-COD-SHA1-4: d1 a5 35 2f c0 af 16 f5 42 3f 64 9e 47 b3 a2 75 73 d9 c4 0f
 RIM-COD-URL-5: DynEdGE2-5.cod
 RIM-COD-Size-5: 48240
-RIM-COD-SHA1-5: 7c 54 5e 2d 1a fd bc 20 20 c7 a3 c6 08 1f 1c 47 a2 8d 15 d9
+RIM-COD-SHA1-5: c6 64 13 92 8a e9 38 7f d4 1c bd ca 5e 41 18 fe 2a e7 04 4b
 RIM-COD-URL-6: DynEdGE2-6.cod
 RIM-COD-Size-6: 47680
-RIM-COD-SHA1-6: 85 81 23 f4 56 a4 35 2d 2a 05 7f d3 38 66 88 a3 97 c3 27 5f
+RIM-COD-SHA1-6: 36 1e e5 a4 f7 47 77 16 c9 52 d7 1b cd 46 e3 03 da 8e 2a 7f
 RIM-COD-URL-7: DynEdGE2-7.cod
 RIM-COD-Size-7: 53444
-RIM-COD-SHA1-7: 9d 29 14 ae 93 20 f3 f1 1e a2 3b 61 1a 37 b6 3e 8f c3 7f 2a
+RIM-COD-SHA1-7: de 89 7d a7 89 b8 91 73 c8 ff a1 90 41 81 ed 36 bd e0 e8 af
 RIM-COD-URL-8: DynEdGE2-8.cod
 RIM-COD-Size-8: 46208
-RIM-COD-SHA1-8: 21 70 cb 52 07 d4 54 0b fa 19 da 40 00 26 d3 6f 2f 17 9f 82
+RIM-COD-SHA1-8: dd 8c 45 3d b1 53 54 6a ad 10 cd 6e 5a af b4 de 98 68 ad 49
 RIM-COD-URL-9: DynEdGE2-9.cod
 RIM-COD-Size-9: 42264
-RIM-COD-SHA1-9: 15 0d 6e 18 78 ae aa 29 eb b0 ee d2 87 cd 3a 1e 87 c7 d1 4a
+RIM-COD-SHA1-9: a7 2f 16 68 37 75 83 7e 39 b3 35 da e3 91 3f 98 e9 79 98 14
 RIM-COD-URL-10: DynEdGE2-10.cod
 RIM-COD-Size-10: 42000
-RIM-COD-SHA1-10: d1 53 fe 06 ee be 74 f6 7f d6 56 75 f0 07 0f 75 e2 7a 5b a9
+RIM-COD-SHA1-10: 90 fb ac 5a 3f 54 bf c4 d1 f0 6d f9 40 fe 36 ae 96 cb e2 f8
 RIM-COD-URL-11: DynEdGE2-11.cod
 RIM-COD-Size-11: 43368
-RIM-COD-SHA1-11: 83 9b 85 42 45 79 e4 3c cb 9b d3 39 71 67 b3 f7 58 f9 ff 07
+RIM-COD-SHA1-11: c8 97 fe 7b c1 cc 24 43 38 0f 56 fb 7a 0b 91 d8 56 ab 11 df
 RIM-COD-URL-12: DynEdGE2-12.cod
 RIM-COD-Size-12: 56872
-RIM-COD-SHA1-12: c9 6e 44 dc 06 53 be 0c bf ab 12 15 52 c1 a1 e9 59 94 e9 0d
+RIM-COD-SHA1-12: 54 ba 22 cf e9 19 6b 15 eb 05 5d dc 7f a2 d5 89 1e e9 9c e1
 RIM-COD-URL-13: DynEdGE2-13.cod
 RIM-COD-Size-13: 55116
-RIM-COD-SHA1-13: b8 e5 c1 a7 56 ed c5 21 f2 99 a9 ee e6 53 e6 22 80 4e 59 46
+RIM-COD-SHA1-13: 20 c5 27 fc 90 0b 45 12 81 bd 4d f2 d0 ef 39 c6 3a f1 54 a9
 RIM-COD-URL-14: DynEdGE2-14.cod
 RIM-COD-Size-14: 45988
-RIM-COD-SHA1-14: 9f 68 49 fe ce 0f 03 99 7c 53 65 a1 3e 38 e2 15 23 aa f2 a3
+RIM-COD-SHA1-14: 73 87 76 7a 85 7c 79 36 ce ef 04 b6 1a b6 b4 0c ca 8b 4b 97
 RIM-COD-URL-15: DynEdGE2-15.cod
 RIM-COD-Size-15: 56616
-RIM-COD-SHA1-15: 9d 57 83 82 68 b6 bd 11 45 fc 2b cb 6e 08 4e f8 14 32 43 47
+RIM-COD-SHA1-15: fa 2e 44 f3 11 d8 8f 41 10 9b 43 03 7e 8b 61 23 c2 eb 46 42
 RIM-COD-URL-16: DynEdGE2-16.cod
 RIM-COD-Size-16: 57236
-RIM-COD-SHA1-16: 8f de ad f6 f7 6a bf b0 1a b7 69 75 b4 ca 1f 24 b1 e5 3c 13
+RIM-COD-SHA1-16: 5c f7 e7 95 fe 98 e2 d0 03 d9 97 01 00 ac 47 83 6f e6 4c 4e
 RIM-COD-URL-17: DynEdGE2-17.cod
 RIM-COD-Size-17: 42292
-RIM-COD-SHA1-17: 5a e2 97 d5 1d f0 a7 44 33 03 02 3c 6e 00 f5 fd b3 8a 5c bf
+RIM-COD-SHA1-17: 1c 36 10 ea e2 73 fc cf 15 7f 10 b8 0e f8 fe 1e 87 53 82 75
 RIM-COD-URL-18: DynEdGE2-18.cod
 RIM-COD-Size-18: 50528
-RIM-COD-SHA1-18: c1 4b a4 c2 86 94 d3 1d 2e c2 4c d4 c2 7f a5 3b 25 6b 4a 0a
+RIM-COD-SHA1-18: 92 52 55 c0 42 8a a3 e9 ff 43 d4 7f e3 06 6d a1 ff 4e 7f 82
 RIM-COD-URL-19: DynEdGE2-19.cod
 RIM-COD-Size-19: 50528
-RIM-COD-SHA1-19: 21 ba 21 78 87 bb 53 7c e3 50 0c 62 af a2 55 2c cc 06 54 f9
+RIM-COD-SHA1-19: b9 7b e9 91 e7 5b 06 86 f9 63 e4 d3 cf f8 d1 e1 15 d8 46 dd
 RIM-COD-URL-20: DynEdGE2-20.cod
 RIM-COD-Size-20: 50532
-RIM-COD-SHA1-20: 68 b1 39 44 ff 7d a6 08 5f 56 61 ec b8 75 b1 fa 77 38 b4 57
+RIM-COD-SHA1-20: 42 cb 8f 33 a8 7b 1c 93 a3 70 bb fc 83 f0 fe 1c a9 71 e9 2c
 RIM-COD-URL-21: DynEdGE2-21.cod
 RIM-COD-Size-21: 53264
-RIM-COD-SHA1-21: fd b6 df 40 4d 67 f4 ec b7 81 c5 59 4c 0a 1e fc 8f 39 bc 9a
+RIM-COD-SHA1-21: 8d 5b 3b c8 b4 e5 78 b0 63 15 28 f0 7b 98 79 4b a4 3e 94 b9
 RIM-COD-URL-22: DynEdGE2-22.cod
 RIM-COD-Size-22: 50528
-RIM-COD-SHA1-22: 62 f2 07 d7 25 1e fe bb 70 c7 a3 91 f8 08 20 35 e3 2f 01 81
+RIM-COD-SHA1-22: 39 8d a8 8d f8 47 fc 97 4f 77 a2 c3 8e 25 7b ce 88 3f c2 9d
 RIM-COD-URL-23: DynEdGE2-23.cod
 RIM-COD-Size-23: 50528
-RIM-COD-SHA1-23: da 8e 91 c0 5e d4 8c f9 11 12 36 fb 70 36 6e 8e b7 4b 01 c7
+RIM-COD-SHA1-23: 01 90 65 81 89 7e 34 46 6e fa a0 1e 78 b4 d3 22 83 db d4 cb
 RIM-COD-URL-24: DynEdGE2-24.cod
 RIM-COD-Size-24: 39472
-RIM-COD-SHA1-24: 76 4a 09 cc 07 3a 6c 0a c9 06 4d 1e b5 6a ee 45 ab 3a a1 b8
+RIM-COD-SHA1-24: dc 33 7c 80 d2 85 50 ae 33 8c 83 f1 08 a9 2b 52 75 36 7d 29
 RIM-COD-URL-25: DynEdGE2-25.cod
 RIM-COD-Size-25: 50532
-RIM-COD-SHA1-25: 18 33 e4 c0 cd a8 9f 7f 95 2b 32 6a 7b b1 dc 8d 4b 14 c9 e7
+RIM-COD-SHA1-25: ce d4 f0 08 3d 45 40 bf b4 50 4d 67 00 91 e3 8d 01 bf 1c 73
 RIM-COD-URL-26: DynEdGE2-26.cod
 RIM-COD-Size-26: 50532
-RIM-COD-SHA1-26: f5 d3 57 fd 5b cb c6 35 e5 fc 66 3d b2 24 db 67 0c c9 7f 28
+RIM-COD-SHA1-26: 4d 2f 67 75 84 d0 8e 7e e2 24 9d f2 a3 4c 95 f7 a1 40 62 f7
 RIM-COD-URL-27: DynEdGE2-27.cod
 RIM-COD-Size-27: 50532
-RIM-COD-SHA1-27: ba 09 95 e6 de d1 be e0 b6 ef 9a f6 f0 88 50 ba 68 ac a0 4b
+RIM-COD-SHA1-27: 95 49 2f c8 48 c0 9d 22 d4 5a 7f 46 d6 f6 7c 0c ff 23 3c 2f
 RIM-COD-URL-28: DynEdGE2-28.cod
 RIM-COD-Size-28: 50532
-RIM-COD-SHA1-28: 66 0d 13 79 99 74 9f 97 f2 db aa b2 f0 fb a1 3f 38 93 49 fc
+RIM-COD-SHA1-28: 68 86 07 10 5f d0 ec 0c 54 63 2e d2 c4 97 77 55 3b dc f2 f2
 RIM-COD-URL-29: DynEdGE2-29.cod
 RIM-COD-Size-29: 55256
-RIM-COD-SHA1-29: ff 11 fe 9b a0 2a 16 d8 49 64 ae d1 1e f8 ea ef aa 03 09 2d
+RIM-COD-SHA1-29: 92 04 d4 e4 ad f3 bc 1e ad 21 af 60 fa 17 bd a3 1d 21 d4 24
 RIM-COD-URL-30: DynEdGE2-30.cod
 RIM-COD-Size-30: 50556
-RIM-COD-SHA1-30: 23 ba a8 eb af ca 85 fd d2 b1 6f 30 48 43 00 d2 4b 4b 60 6b
+RIM-COD-SHA1-30: 89 5a b7 3d 2b 3d 58 a4 17 0a 3c 1c 3d e6 90 2c b5 e8 bc dc
 RIM-COD-URL-31: DynEdGE2-31.cod
 RIM-COD-Size-31: 35288
-RIM-COD-SHA1-31: ad 63 45 1e 38 b0 b3 37 2f 41 65 73 54 2e 6b 0c fe cb 01 36
+RIM-COD-SHA1-31: 64 9e d8 d8 4d 29 15 d9 a7 70 68 ed 0f 9c 87 c7 d4 01 5a ad
 RIM-COD-URL-32: DynEdGE2-32.cod
 RIM-COD-Size-32: 44928
-RIM-COD-SHA1-32: ed 26 3f 77 45 ee 97 b7 14 4e b2 90 3e e8 86 09 9e fb e0 8a
+RIM-COD-SHA1-32: 8c fd f7 13 ab d8 89 63 a4 2d 87 1f 76 41 5a 08 74 79 44 f8
 RIM-COD-URL-33: DynEdGE2-33.cod
 RIM-COD-Size-33: 38848
-RIM-COD-SHA1-33: e9 33 db d9 cc 14 1f 6c 80 14 2d 26 f3 e5 fe b0 1f 5d da 7d
+RIM-COD-SHA1-33: ed 36 21 4f ef 4f 2e fc 18 68 e4 1e ce 36 1b 4d 42 99 07 df
 RIM-COD-URL-34: DynEdGE2-34.cod
 RIM-COD-Size-34: 32676
-RIM-COD-SHA1-34: 73 f1 e6 c2 5f f4 1b 2c 88 a1 e6 ba 53 d2 f8 b6 2b ca 51 84
+RIM-COD-SHA1-34: 43 33 a9 0b 64 61 d5 50 fe f5 da 1c 8c 04 26 00 b6 1c 5f 42
 RIM-COD-URL-35: DynEdGE2-35.cod
 RIM-COD-Size-35: 32980
-RIM-COD-SHA1-35: 25 c8 3e d8 d1 00 8f 13 83 10 2b 81 65 35 48 ae ff f3 30 59
+RIM-COD-SHA1-35: d4 e6 a4 16 fa b1 a2 51 bd f1 b4 d5 c3 fb f2 12 31 c6 31 90
 RIM-COD-URL-36: DynEdGE2-36.cod
 RIM-COD-Size-36: 43372
-RIM-COD-SHA1-36: 36 12 00 3f 16 79 b4 9f 33 ea bb 58 55 b6 42 53 1b 9e 4b ab
+RIM-COD-SHA1-36: b9 5b 5d 24 36 24 c2 0d 7e 2a 99 a0 81 20 68 16 ca 87 2b 0d
 RIM-COD-URL-37: DynEdGE2-37.cod
 RIM-COD-Size-37: 49336
-RIM-COD-SHA1-37: d4 f6 6b e9 cb b1 1d fb 49 a4 04 1d 47 7c 33 71 14 40 49 0d
+RIM-COD-SHA1-37: ea d8 f0 c5 3b e7 da 46 2f ed 14 a6 57 fa 67 f5 06 aa aa a9
